@@ -2,7 +2,7 @@
 - 👀 I’m interested about applied mathematics , numerical analysis , mathematical  modeling and physics.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 
+- 📫 lianeris86@gmail.com
 
 <!---
 Michaellianeris/Michaellianeris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
