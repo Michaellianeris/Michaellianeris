@@ -1,27 +1,12 @@
 # 👋 Hi, I'm Michael Lianeris
 
-I develop and deliver **data-driven solutions** by combining **data engineering, analytics, and AI methods** to solve real business problems. I also work as a **DevOps Engineer**, bridging the gap between development and operations through automation, CI/CD, and scalable infrastructure.
-
-I design and implement scalable **data pipelines, data models, and analytical workflows** using tools and technologies such as:
-- Python
-- SQL
-- Java
-- C/C++
-- PySpark
-- Databricks
-- Microsoft Fabric
-- Power BI
-- Microsoft Azure
+Data & DevOps Engineer passionate about building data-driven solutions that combine data engineering, analytics, and AI to solve real business challenges. Experienced in designing and implementing scalable data pipelines, data models, and analytical workflows, while bridging development and operations through automation, CI/CD, and cloud-native infrastructure.  Focused on turning complex data into actionable insights and delivering reliable, scalable solutions across modern data and AI platforms. Continuously expanding expertise in cloud technologies, data engineering, MLOps, and AI-driven applications to drive business value through innovation and operational excellence.
 
 ## Interests
 I am interested in:
 - Data Engineering
+- DevOps Practises
 - Data Analytics
-- Artificial Intelligence
-- Applied Mathematics
-- Numerical Analysis
-- Mathematical Modeling
-- Physics-based computation
 - Business intelligence and decision-making
 
 ## Currently Learning
@@ -31,12 +16,10 @@ I am continuously expanding my knowledge in modern **Data & AI technologies**, c
 I am open to collaborating on projects related to:
 - Data engineering and ETL pipelines
 - Data modeling and analytics
-- AI-powered business solutions
-- Power BI dashboards and reporting
-- Scientific computing and mathematical modeling
-- Data quality, governance, and reliable insight generation
 - DevOps automation, CI/CD pipelines, and infrastructure as code
+- AI-powered business solutions
 
+<img width="1584" height="396" alt="LinkedIn banner 1584×396@1x" src="https://github.com/user-attachments/assets/e6b101a9-5e74-4eed-9aba-dc09d895befa" />
 ## Contact
 You can reach me at:
 **lianeris86@gmail.com**
