@@ -1,4 +1,5 @@
 <img width="1584" height="396" alt="LinkedIn banner 1584×396@1x" src="https://github.com/user-attachments/assets/e6b101a9-5e74-4eed-9aba-dc09d895befa" />
+
 # 👋 Hi, I'm Michael Lianeris
 
 Data & DevOps Engineer passionate about building data-driven solutions that combine data engineering, analytics, and AI to solve real business challenges. Experienced in designing and implementing scalable data pipelines, data models, and analytical workflows, while bridging development and operations through automation, CI/CD, and cloud-native infrastructure.  Focused on turning complex data into actionable insights and delivering reliable, scalable solutions across modern data and AI platforms. Continuously expanding expertise in cloud technologies, data engineering, MLOps, and AI-driven applications to drive business value through innovation and operational excellence.
